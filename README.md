@@ -1,4 +1,4 @@
-# Projetos da Plataforma [Udemy]
+# Projetos da Plataforma [Ebac]
 
 Bem-vindo(a) ao repositório que reúne todos os projetos que desenvolvi de back-end na plataforma de cursos da **[Ebac]**. Este repositório contém projetos criados para consolidar conceitos, práticas e habilidades em **[back-end]**.
 
